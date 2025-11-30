@@ -5,50 +5,50 @@ This project performs an Exploratory Data Analysis (EDA) on a Streetwear sales d
 
 Features
 
-Comprehensive analysis of sales data including product categories, quantities, and revenue trends.
+* Comprehensive analysis of sales data including product categories, quantities, and revenue trends.
 
-Visualization of key insights through bar charts, line charts, pie charts, and scatter plots.
+* Visualization of key insights through bar charts, line charts, pie charts, and scatter plots.
 
-Identification of top-selling products and seasonal sales patterns.
+* Identification of top-selling products and seasonal sales patterns.
 
-Detection of anomalies and missing data for better data quality understanding.
+* Detection of anomalies and missing data for better data quality understanding.
 
-Summary insights that can assist in inventory management and marketing strategies.
+* Summary insights that can assist in inventory management and marketing strategies.
 
 Tools & Technologies
 
-Python – Core language for data analysis
+> Python – Core language for data analysis
 
-Pandas – Data manipulation and cleaning
+> Pandas – Data manipulation and cleaning
 
-NumPy – Numerical computations
+> NumPy – Numerical computations
 
-Matplotlib & Seaborn – Data visualization
+> Matplotlib & Seaborn – Data visualization
 
-Jupyter Notebook – Interactive analysis environment
+> Jupyter Notebook – Interactive analysis environment
 
 Insights from Analysis
 
-Trends in monthly/seasonal sales for different product categories.
+*Trends in monthly/seasonal sales for different product categories.
 
-Identification of products contributing most to revenue.
+*Identification of products contributing most to revenue.
 
-Customer buying patterns and preferences.
+*Customer buying patterns and preferences.
 
-Recommendations for stock planning and promotional campaigns.
+*Recommendations for stock planning and promotional campaigns.
 
 How to Use
 
-Clone the repository:
+1. Clone the repository:
 
-git clone <repository-url>
+2. git clone <repository-url>
 
 
 Open the Jupyter Notebook Streetwear_Sales_EDA.ipynb.
 
-Install required libraries:
+3. Install required libraries:
 
-pip install pandas numpy matplotlib seaborn
+4. pip install pandas numpy matplotlib seaborn
 
 
-Run the notebook to explore the analysis and visualizations.
+5. Run the notebook to explore the analysis and visualizations.
