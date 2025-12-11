@@ -5,9 +5,9 @@ This project performs an Exploratory Data Analysis (EDA) on a Streetwear sales d
 
 Features
 
-* Comprehensive analysis of sales data including product categories, quantities, and revenue trends.
+* Comprehensive analysis of sales data including product categories, quantities, and revenue trends
 
-* Visualization of key insights through bar charts, line charts, pie charts, and scatter plots.
+* Visualization of key insights through bar charts, line charts, pie charts, and scatter plots
 
 * Identification of top-selling products and seasonal sales patterns.
 
